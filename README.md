@@ -1,2 +1,2 @@
-# Akshita--Chauhan
+# Akshita-Chauhan
 This is my first Repository
